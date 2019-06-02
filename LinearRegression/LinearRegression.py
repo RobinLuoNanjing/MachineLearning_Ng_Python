@@ -122,7 +122,7 @@ def gradientDescent(X,y,theta,alpha,num_iters):
     2. (alpha/m) 其实不用多说，就是学习速率除去样本总数m
     3. (np.dot(np.transpose(X),hypothesis-y))    这个我们需要拆分着看。
         3.1 先看   hypothesis-y  :这个其实就是生成一个新的矩阵，在此数据下，是47x1的矩阵。矩阵存放着47个样本的 h(x)-y。
-        3.2 再看 np.transpose(X)   :就是把X转置。为什么要转置呢。
+        3.2 再看 np.transpose(X)   :就是把X转置。
         3.3 最后看np.dot 也就是3.1和3.2的内积。是一个3x47的矩阵乘一个47x1的矩阵，生成一个3x1的矩阵。这里建议大家写一个草稿，去模拟这个内积的效果，比较容易弄明白。
 '''
 
