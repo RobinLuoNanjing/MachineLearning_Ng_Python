@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6830d801-f9a4-412a-838f-3fc79a8d3189" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LogisticRegression/LogisticRegression_oneVsAll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogisticRegression/data_digits.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6830d801-f9a4-412a-838f-3fc79a8d3189" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LogisticRegression/LogisticRegression_oneVsAll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+            <state relative-caret-position="568">
+              <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -121,7 +117,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LogisticRegression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NeuralNetworks" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -146,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LogisticRegression_oneVsAll">
+  <component name="RunManager" selected="Python.NeuralNetworks_1">
     <configuration name="LinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning_Ng_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,6 +206,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="NeuralNetworks_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning_Ng_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetworks/NeuralNetworks_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,6 +250,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NeuralNetworks_1" />
         <item itemvalue="Python.LogisticRegression_oneVsAll" />
         <item itemvalue="Python.LogisticRegression" />
         <item itemvalue="Python.LinearRegression" />
@@ -250,6 +268,14 @@
       <option name="presentableId" value="Default" />
       <updated>1558769351987</updated>
     </task>
+    <task id="LOCAL-00001" summary="LogisticRegression_oneVsAll">
+      <created>1559984878905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559984878905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,6 +299,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LogisticRegression_oneVsAll" />
+    <option name="LAST_COMMIT_MESSAGE" value="LogisticRegression_oneVsAll" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LogisticRegression/data_digits.mat">
@@ -312,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LogisticRegression/LogisticRegression_oneVsAll.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+        <state relative-caret-position="568">
+          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
